@@ -8,7 +8,7 @@ Author: Ismail Alamir
 ### Setup
 -  python 3.10.7
 
-## [Pull requests]()
+## [Pull requests](https://github.com/IsmailAlamir/django-snacks/pull/1)
 
 
 #### run the server
